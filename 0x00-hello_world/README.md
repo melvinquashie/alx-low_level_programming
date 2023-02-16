@@ -4,7 +4,7 @@
 3-script that compiles a C file and creates an executable named cisfun
 4-C program using "puts" to print eactly "Programming is like building a multilingual puzzle
 5-C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
-6-
+6-C program that prints the size of various types on the computer it is compiled and run on
 7-
 8-
 9-
