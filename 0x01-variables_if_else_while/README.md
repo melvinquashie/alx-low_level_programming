@@ -5,7 +5,7 @@
 4-Print all the letters except q and e
 5-prints single digit numbers of base 10
 6-prints single digit numbers of base 10
-7-
+7-prints the lowercase alphabet in reverse
 8-
 9-
 100-
