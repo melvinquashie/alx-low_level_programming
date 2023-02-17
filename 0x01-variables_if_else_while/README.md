@@ -8,4 +8,7 @@
 7-prints the lowercase alphabet in reverse and add new line
 8-prints all the numbers of base 16 in lowercase, followed by a new line.
 9-prints single digit numbers seperated by "," and " ".
-100-
+100-a program that prints all possible different combinations
+ * of two digits
+101-
+102-
