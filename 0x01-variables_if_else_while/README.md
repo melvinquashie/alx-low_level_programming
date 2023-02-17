@@ -6,6 +6,6 @@
 5-prints single digit numbers of base 10
 6-prints single digit numbers of base 10
 7-prints the lowercase alphabet in reverse and add new line
-8-
+8-prints all the numbers of base 16 in lowercase, followed by a new line.
 9-
 100-
