@@ -1,6 +1,6 @@
 0- print whether the number stored in the variable n is positive or negative. 
 1-print the last digit of the number stored in the variable n.
-2-
+2-prints the alphabet in lowercase
 3-
 4-
 5-
