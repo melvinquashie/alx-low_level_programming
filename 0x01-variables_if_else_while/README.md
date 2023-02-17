@@ -3,7 +3,7 @@
 2-prints the alphabet in lowercase.
 3-prints the alphabet in lowercase, and then in uppercase.
 4-Print all the letters except q and e
-5-
+5-prints single digit numbers of base 10
 6-
 7-
 8-
