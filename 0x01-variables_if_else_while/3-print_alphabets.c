@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * Description: prints the alphabet in lowercase
+ * Description: prints the alphabet in lowercase and in uppercase
  *
  * Return: 0
  */
@@ -18,6 +18,9 @@ int main(void)
 	putchar(c);
 	}
   for (d = 'A' ; d <= 'Z' ; d++)
+  {
+  putchar(d);
+  }
 	putchar('\n');
 	return (0);
 }
