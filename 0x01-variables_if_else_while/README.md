@@ -2,7 +2,7 @@
 1-print the last digit of the number stored in the variable n.
 2-prints the alphabet in lowercase.
 3-prints the alphabet in lowercase, and then in uppercase.
-4-
+4-Print all the letters except q and e
 5-
 6-
 7-
