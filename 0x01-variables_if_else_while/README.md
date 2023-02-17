@@ -10,5 +10,6 @@
 9-prints single digit numbers seperated by "," and " ".
 100-a program that prints all possible different combinations
  * of two digits
-101-
+101-program that prints all possible different combinations
+ * of three digits
 102-
