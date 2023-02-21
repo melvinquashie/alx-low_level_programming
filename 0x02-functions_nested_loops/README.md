@@ -1,5 +1,5 @@
 0-prints "_putchar"
-1-
+1-prints the alphabet
 2-
 3-
 4-
