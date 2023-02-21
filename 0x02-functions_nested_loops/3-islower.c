@@ -6,7 +6,7 @@
  * @c: c is the checked character
  *
  * Return: 1 if lowercase
- * 
+ *
  * Return: 0 otherwise
  */
 
