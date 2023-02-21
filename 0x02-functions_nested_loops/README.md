@@ -3,7 +3,7 @@
 2-prints alphabet 10 times
 3-check for lowercase
 4-checks if character is a letter of the alphabet
-5-
+5-prints the sign of a number
 6-
 7-
 8-
