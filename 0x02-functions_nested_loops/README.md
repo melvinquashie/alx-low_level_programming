@@ -4,7 +4,7 @@
 3-check for lowercase
 4-checks if character is a letter of the alphabet
 5-prints the sign of a number
-6-
+6-prints absolut value of number
 7-
 8-
 9-
