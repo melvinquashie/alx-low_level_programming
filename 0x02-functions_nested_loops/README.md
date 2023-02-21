@@ -5,6 +5,6 @@
 4-checks if character is a letter of the alphabet
 5-prints the sign of a number
 6-prints absolut value of number
-7-
+7-prints last digit of integer
 8-
 9-
