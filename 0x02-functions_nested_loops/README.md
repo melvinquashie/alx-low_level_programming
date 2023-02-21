@@ -9,3 +9,4 @@
 8-prints all the minutes of the day
 9-prints 9 times table
 10- adds to integers and returns the result
+11- print from number i to 98
