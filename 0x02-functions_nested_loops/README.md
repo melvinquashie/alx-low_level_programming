@@ -7,4 +7,4 @@
 6-prints absolut value of number
 7-prints last digit of integer
 8-prints all the minutes of the day
-9-
+9-prints 9 times table
