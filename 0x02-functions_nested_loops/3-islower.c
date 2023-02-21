@@ -5,9 +5,7 @@
  *
  * @c: c is the checked character
  *
- * Return: 1 if lowercase
- *
- * Return: 0 otherwise
+ * Return: 1 if lowercase, 0 otherwise
  */
 
 int _islower(int c)
