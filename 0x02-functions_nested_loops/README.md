@@ -1,6 +1,6 @@
 0-prints "_putchar"
 1-prints the alphabet
-2-
+2-prints alphabet 10 times
 3-
 4-
 5-
