@@ -8,3 +8,4 @@
 7-prints last digit of integer
 8-prints all the minutes of the day
 9-prints 9 times table
+10- adds to integers and returns the result
