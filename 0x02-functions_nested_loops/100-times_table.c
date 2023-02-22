@@ -42,7 +42,7 @@ _putchar(',');
 _putchar(' ');
 _putchar(' ');
 _putchar(product / 100 + '0');
-_putchar(product / 10 + '0');
+_putchar((product / 10) % 10 + '0');
 _putchar(product % 10 + '0');
 }
 }
