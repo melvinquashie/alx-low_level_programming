@@ -3,18 +3,18 @@
 /**
  * _isalpha - checks for alphabetic character
  *
- * @alpha: alpha is the checked character
+ * @c: c is the checked character
  *
- * Return: 1 (if alpha is a letter of the alphabet)
+ * Return: 1 (if c is a letter of the alphabet)
  */
 
-int _isalpha(int alpha)
+int _isalpha(int c)
 {
-	if (alpha >= 'a' && alpha <= 'z')
+	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}
-	else if (alpha >= 'A' && alpha <= 'Z')
+	else if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}

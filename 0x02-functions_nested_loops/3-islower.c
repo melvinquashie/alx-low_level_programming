@@ -3,14 +3,14 @@
 /**
  * _islower - checks for lowercase
  *
- * @alpha: alpha is the checked character
+ * @c: c is the checked character
  *
  * Return: 1 if lowercase, 0 otherwise
  */
 
-int _islower(int alpha)
+int _islower(int c)
 {
-	if (alpha >= 'a' && alpha <= 'z')
+	if (c >= 'a' && c <= 'z')
 	{
 		return (1);
 	}

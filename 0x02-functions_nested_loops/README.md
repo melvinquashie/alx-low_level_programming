@@ -10,3 +10,9 @@
 9-prints 9 times table
 10- adds to integers and returns the result
 11- print from number i to 98
+100- print the n times table
+101-
+102-
+103-
+104-
+
