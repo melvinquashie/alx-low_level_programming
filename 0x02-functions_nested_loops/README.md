@@ -11,7 +11,7 @@
 10- adds to integers and returns the result
 11- print from number i to 98
 100- print the n times table
-101-
+101- sum of all multiples below 3 and 5 below 1024
 102-
 103-
 104-
