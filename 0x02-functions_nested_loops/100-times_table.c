@@ -28,12 +28,14 @@ while (n >= 0 && n <= 15)
 				_putchar(',');
 				_putchar(' ');
 				_putchar(' ');
+        _putchar(' ');
 				_putchar(y + '0');
 			}
 			else
 			{
 				_putchar(',');
 				_putchar(' ');
+        _putchar(' ');
 				_putchar(x + '0');
 				_putchar(y + '0');
 			}
