@@ -6,7 +6,7 @@
 5-prints numbers 0-14, 10 times
 6-draws a straight line in the terminal
 7-draws a diagonal line on the terminal
-8-
+8-prints a square, followed by a new line
 9-
 10-
 
