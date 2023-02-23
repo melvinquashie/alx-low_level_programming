@@ -7,6 +7,6 @@
 6-draws a straight line in the terminal
 7-draws a diagonal line on the terminal
 8-prints a square, followed by a new line
-9-
+9-prints the numbers from 1 to 100, followed by a new line but for multiples of three prints Fizz instead of the number, and for the multiples of five prints Buzz, and for multiples of 3 and 5, print Fiprints the numbers from 1 to 100, followed by a new line.
 10-
 
