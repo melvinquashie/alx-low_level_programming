@@ -1,6 +1,6 @@
 0-checks for uppercase letter
 1-checks for a digit, 0 to 9
-2-
+2-multiplies 2 integers
 3-
 4-
 5-
