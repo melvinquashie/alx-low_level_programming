@@ -1,5 +1,5 @@
 0-checks for uppercase letter
-1-
+1-checks for a digit, 0 to 9
 2-
 3-
 4-
