@@ -9,7 +9,7 @@
  * @x: integer to start checking for square root
  * from
  * 
- * 
+ *
  * Return: -1 if n has no square root or
  * resulting square root.
  */
@@ -25,6 +25,10 @@ int check_sqrt(int n, int x)
 	else
 		return (-1);
 }
+
+/**
+ * _sqrt_recursion - returns the natural square root
+*/
 
 int _sqrt_recursion(int n)
 {
