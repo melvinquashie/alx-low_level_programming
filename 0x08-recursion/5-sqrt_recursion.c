@@ -29,6 +29,8 @@ int check_sqrt(int n, int x)
 /**
  * _sqrt_recursion - returns the natural square root
  *
+ * @n: n integer to find root of 
+ *
  * Return: -1 if n has no square root or
  * resulting square root.
 */
