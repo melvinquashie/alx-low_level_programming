@@ -1,4 +1,4 @@
-#include "main"
+#include "main.h"
 
 /**
  * check_pal - checks the characters for palindrome
