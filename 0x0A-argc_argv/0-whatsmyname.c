@@ -6,7 +6,7 @@
  *
  * @argc: number of arguments
  * @argv: array of arguments
- * 
+ *
  * ((unused)) attribute used in place of void
  * since we print out argv[0] = name
  * of program, without any input
