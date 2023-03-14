@@ -7,7 +7,7 @@
  * @s1: string 1
  * @s2: string 2
  *
- * Return: pointer to new string (success), NULL (failure) 
+ * Return: pointer to new string (success), NULL (failure)
  */
 
 char *str_concat(char *s1, char *s2)
@@ -34,7 +34,7 @@ char *str_concat(char *s1, char *s2)
 
 	len = len1 + len2;
 
-	array = (char*) malloc(len * sizeof(char) + 1);
+	array = (char *) malloc(len * sizeof(char) + 1);
 
 	if (array == NULL)
 		return (NULL);
