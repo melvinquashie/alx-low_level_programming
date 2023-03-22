@@ -48,4 +48,10 @@ op_mul: returns the product of a and b. Prototype: int op_mul(int a, int b);
 op_div: returns the result of the division of a by b. Prototype: int op_div(int a, int b);
 op_mod: returns the remainder of the division of a by b. Prototype: int op_mod(int a, int b);
 
+3-get_op_func.c
+Prototype: int (*get_op_func(char *s))(int, int);
+where s is the operator passed as argument to the program
+
 3-main.c - contain your main function only.
+
+5. 100-main_opcodes.c - a program that prints the opcodes of its own main function.
