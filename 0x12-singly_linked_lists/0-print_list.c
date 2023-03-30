@@ -5,14 +5,13 @@
  *
  * @h: head of linked list
  *
- * Return: number of elements
+ * Return:  the number of nodes (size)
  */
 
 size_t print_list(const list_t *h)
 {
-	size_t size;
+	size_t size = 0;
 
-	size = 0;
 	while (h != NULL)
 	{
 		size++;

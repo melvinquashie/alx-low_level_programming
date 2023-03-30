@@ -21,8 +21,6 @@ typedef struct list_s
 
 /**
  * _strlen - returns length of string
- * Description - would be used to get
- * length of string in add_node function
  *
  * @s: string
  *
