@@ -7,7 +7,7 @@
  * Return: new_node
  */
 
-/*
+
 size_t print_listint_safe(const listint_t *head)
 {
 	const listint_t *ptr = head, *tmp = head;
@@ -36,32 +36,4 @@ size_t print_listint_safe(const listint_t *head)
 			exit(98);
 	}
 	return (counter);
-}
-*/
-
-size_t print_listint_safe(const listint_t *head)
-{
-	const listint_t *current = head;
-	const listint_t *previous = NULL;
-	size_t count = 0;
-
-	while (current != NULL)
-	{
-		printf("[%p] %d\n", (void *)current, current->n);
-		count++;
-
-		if (current < previous)
-			break;
-
-		previous = current;
-		current = current->next;
-	}
-
-	if (current != NULL)
-	{
-		printf("-> [%p] %d\n", (void *)current, current->n);
-		count++;
-	}
-
-	return (count);
 }
