@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+char *createBuffer(char *file);
+void closeFile(int fd);
+
 /**
  * createBuffer - Allocates 1024 bytes for a buffer.
  *
