@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_binary - prints the binary representatij of a number
+ * print_binary - prints the binary representation of a number
  *
  * @n: integer
  *
