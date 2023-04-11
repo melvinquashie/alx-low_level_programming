@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
-* main - Copies the contents of a file file_to another file.
+* main - Copies the contents of a file another file.
 *
 * @argc: num argument
 * @argv: string argument
@@ -25,7 +25,12 @@ int file_from, file_to, r, w;
  * @w - write file
 */
 
-char buf[1024];
+char buffer[1024];
+if (buffer == NULL)
+{
+dprintf(STDERR_FILENO, "Error: Can't write to %s\n", argv[2]);
+exit(99);
+}
 
 if (argc != 3)
 {
@@ -49,13 +54,13 @@ close(file_from), exit(99);
 
 while (r == 1024)
 {
-r = read(file_from, buf, 1024);
+r = read(file_from, buffer, 1024);
 if (r == -1)
 {
 dprintf(STDERR_FILENO, "Error: Can't read from file %s\n", argv[1]);
 exit(98);
 }
-w = write(file_to, buf, r);
+w = write(file_to, buffer, r);
 if (w < r)
 dprintf(STDERR_FILENO, "Error: Can't write to %s\n", argv[2]), exit(99);
 }
