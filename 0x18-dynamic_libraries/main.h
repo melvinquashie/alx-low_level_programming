@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef __MAIN__
+#define __MAIN__
 
 #define EXIT_SUCCESS 0
 
